@@ -6,7 +6,7 @@ God willing, this will work to store information for building data analytic proj
 Kristine Steele
 
 ## Project Description
-This project is part of Data Analytics Fundamentals. It demonstrates professional Python practices including:
+This project contains utility functions for data analysis and Professional Python practice.
 
 - Using a virtual environment (`.venv`)
 - Installing dependencies from `requirements.txt`

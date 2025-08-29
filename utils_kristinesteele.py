@@ -58,7 +58,7 @@ is_accepting_clients: bool = True
 offers_remote_workshops: bool = True
 
 # TODO: Declare and initialize a new boolean variable (e.g. `is_hiring` and set it to False)
-
+is_hiring: bool = False
 # ----------------------------------
 # Define Integer variables
 # ----------------------------------
@@ -66,16 +66,16 @@ current_year: int = 2025
 year_started: int = 2020
 
 # TODO: Declare and initialize a new integer variable (e.g. `number_of_employees` and set it to 25)
-
+number_of_employees: int = 25
 # ----------------------------------
 # Define String variables
 # ----------------------------------
-author: str = "Denise Case"  # TODO: change to your name
-organization: str = "Stellar Analytics"  # TODO: change the org name
-motto: str = "Clear. Useful. On time."  # TODO: change the motto
+author: str = "Kristine Steele"  # TODO: change to your name
+organization: str = "DataLight"  # TODO: change the org name
+motto: str = "Clean and Precise, From Data to Advice."  # TODO: change the motto
 
 # TODO: Declare and initialize a new string variable (e.g. `location` and set it to your city and state)
-
+location: str = "Lees Summit, Missouri"
 # ----------------------------------
 # Define List variables
 # ----------------------------------
@@ -88,6 +88,7 @@ satisfaction_scores: list[float] = [4.8, 4.6, 4.9, 5.0, 4.7]
 
 # TODO: Declare and initialize a new list variable (e.g. `office_locations` and set it to 3-5 cities where your org has offices)
 # TODO: Wrap each string in quotes and separate each item with a comma.
+office_locations: list = ["Lenexa", "Leawood", "Overland Park", "Kansas City", "Olathe"]
 
 # ----------------------------------
 # Use built-in Python operators (such as - + * /)
@@ -100,7 +101,7 @@ count_of_services: int = len(services)
 count_of_scores: int = len(satisfaction_scores)
 
 # TODO: Declare and initialize a new calculated variable (e.g. `count_of_locations` that uses the len() function on your list of office locations)
-
+count_of_locations = len(office_locations)
 
 # ----------------------------------
 # Use the built-in statistics module functions (such as mean, stdev, etc.)
