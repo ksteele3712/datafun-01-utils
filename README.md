@@ -1,5 +1,5 @@
 # datafun-01-utils
-God willing, this will work to store information for building data analytic projects!
+This is a file for reading about my data analytic projects!
 # datafun-01-utils
 
 ## Author
