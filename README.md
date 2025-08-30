@@ -1,5 +1,5 @@
 # datafun-01-utils
-God willing, this will work to store information for building data analytic projects.
+God willing, this will work to store information for building data analytic projects!
 # datafun-01-utils
 
 ## Author
@@ -17,7 +17,8 @@ This project contains utility functions for data analysis and Professional Pytho
 - Running Python modules with a `main()` function and `if __name__ == "__main__": main()`
 
 ## Files
-- `utils_yourname.py` → Your custom reusable module (add this file later)
+
 - `requirements.txt` → Dependencies list
 - `.gitignore` → Git ignore rules
 - `README.md` → This file
+- `utils_kristinesteele.py` -> Your custom reusable module
