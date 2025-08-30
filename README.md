@@ -21,4 +21,4 @@ This project contains utility functions for data analysis and Professional Pytho
 - `requirements.txt` → Dependencies list
 - `.gitignore` → Git ignore rules
 - `README.md` → This file
-- `utils_kristinesteele.py` -> Your custom reusable module
+- `utils_kristinesteele.py` -> My custom reusable module
